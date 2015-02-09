@@ -1,3 +1,36 @@
+/*
+ *	Dark Green: #009933;
+ *	Dark Gray: #54544F;
+ *	
+ *	Light Green: #33cc33;
+ *	Light Gray: #8F8E87;
+ */
+
+
+.border {
+	border-width: 2px;
+	border-radius: 30px;
+}
 .nav-spacer {
 	height: 70px;
+	overflow: auto;
+}
+.center {}
+@media (min-width: 768px) {
+	.center {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+@media (min-width: 992px) {
+	.center {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+@media (min-width: 1200px) {
+	.center {
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
