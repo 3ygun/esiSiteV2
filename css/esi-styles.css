@@ -5,11 +5,17 @@
  *	Light Green: #33cc33;
  *	Light Gray: #8F8E87;
  */
-
-
+.background-full {
+	height: 2000px;
+	overflow: auto;
+}
+.marginz {
+	margin: 20px;
+}
 .border {
-	border-width: 2px;
+	border-width: 20px;
 	border-radius: 30px;
+	border-color: #FFFFFF;
 }
 .nav-spacer {
 	height: 70px;
