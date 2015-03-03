@@ -21,6 +21,10 @@
 	height: 70px;
 	overflow: auto;
 }
+.text-center {
+	text-align: center;
+}
+
 .center {}
 @media (min-width: 768px) {
 	.center {
