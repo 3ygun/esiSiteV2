@@ -43,7 +43,7 @@ There are a number of ways to help that do and don't involve coding in HTML5/CSS
 ## Design:
 If you know it, you can probably see I don't got it. Either way if you have design suggestions/improvements please follow the the "How do I contribute as an involved individual" steps. Either post a description of you purposed design change/update or (Preferably) sketch out/color the idea & send me the document/picture of the change. The latter allows me to directly translate your design into the code.
 
-Disclaimer Regarding Design
+### Disclaimer Regarding Design
 - As you know design isn't a science therefore we are entitled to our ideas of good and/or bad. Therefore all ideas/suggestions may or may not be implemented.  
 
 
