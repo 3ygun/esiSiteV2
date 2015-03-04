@@ -1,7 +1,7 @@
 # The eSports Initiative Site Redesign
 
 ## The Project:
-Remake the before 2015 Rails site ([Old Site][https://github.com/mcrazy20/ESITestWebsite]) to improve:
+Remake the before 2015 Rails site ([Old Site](https://github.com/mcrazy20/ESITestWebsite)) to improve:
 - Edit-ability
 - Scalability
 - General Design Appearance
@@ -23,7 +23,7 @@ There are three main areas of the site that need help:
 ## How do I contribute as an involved individual:
 ### First, Determine what needs to be done by either:
 - Proceed to the Issues section on the right to see what needs to be created, edited, updated, etc.
- - [Google Doc][https://docs.google.com/document/d/1IKreZBQC88fdj03ebE1nc6mb2K8nZt92_ZzFM6hrZUg/edit?usp=sharing]
+ - [Google Doc](https://docs.google.com/document/d/1IKreZBQC88fdj03ebE1nc6mb2K8nZt92_ZzFM6hrZUg/edit?usp=sharing)
 - Or download/clone the code and find issues and fix them
 
 ### Second, Found an Issue I want to fix now what:
