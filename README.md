@@ -6,6 +6,8 @@ Remake the before 2015 Rails site ([Old Site](https://github.com/mcrazy20/ESITes
 - Scalability
 - General Design Appearance
 
+The [New Site](http://esiv2.azurewebsites.net/index.html) is avaible for inspection as changes are added.
+
 ## The Team:
 - David Soller >> 3ygun >> Development (Webmaster)
 - Tiko >> (Designer)
