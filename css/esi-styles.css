@@ -6,7 +6,7 @@
  *	Light Gray: #8F8E87;
  */
 .background-full {
-	height: 2000px;
+	min-height: 960px;
 	overflow: auto;
 }
 .marginz {
