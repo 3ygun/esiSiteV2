@@ -5,10 +5,6 @@
  *	Light Green: #33cc33;
  *	Light Gray: #8F8E87;
  */
-.background-full {
-	min-height: 960px;
-	overflow: auto;
-}
 .marginz {
 	margin: 20px;
 }
