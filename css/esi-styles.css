@@ -14,9 +14,18 @@
 .big-button {
 	font-size: 25px;
 }
+a > button > .big-button {
+	color: #333;
+}
+a:hover > button {
+	background-color: #00862D;
+}
+a:hover > button > .big-button {
+	color: #222;
+}
 .title-box {
-	border-radius: 15px;
-	height: 35px;
+	border-radius: 18px;
+	height: 40px;
 	margin-bottom: 10px;
 }
 .aboutus-text {
@@ -27,6 +36,9 @@
 	color: #333;
 	font-size: 30px;
 	font-style: times-new-roman;
+}
+.join-pic > div {
+	margin-bottom: 25px;
 }
 .nav-spacer {
 	height: 70px;
