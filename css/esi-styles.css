@@ -43,10 +43,7 @@ a:hover > button > .big-button {
 .join-pic > div {
 	margin-bottom: 25px;
 }
-.nav-spacer {
-	height: 70px;
-	overflow: auto;
-}
+
 .nav-footer > li > a {
 	color: #9D9D9D;
 	padding: 3px 15px;
@@ -62,10 +59,13 @@ footer > div {
 	padding: 15px;
 	background-color: #222;
 }
-
-
 .text-center {
 	text-align: center;
+}
+
+.nav-spacer {
+	height: 100px;
+	overflow: auto;
 }
 
 .center {}
@@ -74,16 +74,28 @@ footer > div {
 		margin-left: auto;
 		margin-right: auto;
 	}
+	.nav-spacer {
+		height: 70px;
+		overflow: auto;
+	}
 }
 @media (min-width: 992px) {
 	.center {
 		margin-left: auto;
 		margin-right: auto;
 	}
+	.nav-spacer {
+		height: 70px;
+		overflow: auto;
+	}
 }
 @media (min-width: 1200px) {
 	.center {
 		margin-left: auto;
 		margin-right: auto;
+	}
+	.nav-spacer {
+		height: 70px;
+		overflow: auto;
 	}
 }
