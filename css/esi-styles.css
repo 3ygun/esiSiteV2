@@ -8,6 +8,12 @@
 .marginz {
 	margin: 20px;
 }
+.marginz-bottom {
+	margin-bottom: 20px;
+}
+.big-button {
+	font-size: 25px;
+}
 .border {
 	border-width: 20px;
 	border-radius: 30px;
