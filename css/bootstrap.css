@@ -123,6 +123,7 @@ button {
   height: 50px;
   background-color: #009933;
   border-style: none;
+  border-radius: 30px;
 }
 button,
 select {
