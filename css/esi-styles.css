@@ -36,7 +36,6 @@ a:hover > button {
 	border-style: solid;
 	border-width: 0px 0px 2px;
 }
-
 .title-text {
 	text-indent: 20px;
 	color: #fff;
@@ -55,6 +54,11 @@ a:hover > button {
 	font-size: 30px;
 	font-style: times-new-roman;
 }
+.green-quote {
+	color: #009933;
+	font-size: 30px;
+	font-style: times-new-roman;
+}
 .join-pic > div {
 	margin-bottom: 25px;
 }
@@ -64,6 +68,10 @@ a:hover > button {
 	border-color: #fff;
 	border-style: solid;
 	border-width: 2px 0px 0px;
+	overflow:hidden:
+}
+.show-content > img {
+	padding: 20px;
 }
 .stuff2 {
 	padding: 3px 10px;
