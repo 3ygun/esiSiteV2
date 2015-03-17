@@ -15,6 +15,9 @@
 .marginz-top {
 	margin-top: 20px;
 }
+.padding {
+	padding: 20px;
+}
 .big-button {
 	font-size: 25px;
 	padding-right: 10px;
@@ -68,15 +71,9 @@ a:hover > button {
 	border-color: #fff;
 	border-style: solid;
 	border-width: 2px 0px 0px;
-	overflow:hidden:
 }
 .show-content > img {
 	padding: 20px;
-}
-.stuff2 {
-	padding: 3px 10px;
-	background-color: #fff;
-	opacity: 0.6;
 }
 .nav-footer > li > a {
 	color: #9D9D9D;
