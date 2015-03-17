@@ -1,7 +1,7 @@
 /*
  *	Dark Green: #009933;
  *	Dark Gray: #54544F;
- *	
+ *
  *	Light Green: #33cc33;
  *	Light Gray: #8F8E87;
  */
@@ -22,21 +22,29 @@
 a > button > .big-button {
 	color: #333;
 }
-a:hover > button {
-	background-color: #00862D;
-}
 a:hover > button > .big-button {
-	color: #222;
+	color: #333;
+}
+a > button {
+	border-color: #009933;
+	border-style: solid;
+	border-width: 0px 0px 2px;
+}
+a:hover > button {
+	background-color: #00BF40;
+	border-color: #fff;
+	border-style: solid;
+	border-width: 0px 0px 2px;
+}
+
+.title-text {
+	text-indent: 20px;
+	color: #fff;
 }
 .title-box {
 	border-color: #fff;
 	border-style: solid;
 	border-width: 0px 0px 2px;
-	text-indent: 20px;
-	background-color: #009933;
-	color: #fff;
-}
-.title-box-box {	
 }
 .aboutus-text {
 	font-size: 20px;
@@ -50,11 +58,12 @@ a:hover > button > .big-button {
 .join-pic > div {
 	margin-bottom: 25px;
 }
-.stuff {
-	padding: 3px 10px;
-	background-color: #101010;
-	opacity: 0.6;
+.show-content {
+	background-color: #222;
 	color: #fff;
+	border-color: #fff;
+	border-style: solid;
+	border-width: 2px 0px 0px;
 }
 .stuff2 {
 	padding: 3px 10px;
