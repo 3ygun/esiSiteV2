@@ -7,6 +7,7 @@
  */
 .marginz {
 	margin: 20px;
+	text
 }
 .marginz-bottom {
 	margin-bottom: 20px;
@@ -16,6 +17,7 @@
 }
 .big-button {
 	font-size: 25px;
+	padding-right: 10px;
 }
 a > button > .big-button {
 	color: #333;
@@ -27,9 +29,14 @@ a:hover > button > .big-button {
 	color: #222;
 }
 .title-box {
-	border-radius: 18px;
-	height: 40px;
-	margin-bottom: 10px;
+	border-color: #fff;
+	border-style: solid;
+	border-width: 0px 0px 2px;
+	text-indent: 20px;
+	background-color: #009933;
+	color: #fff;
+}
+.title-box-box {	
 }
 .aboutus-text {
 	font-size: 20px;
@@ -43,7 +50,17 @@ a:hover > button > .big-button {
 .join-pic > div {
 	margin-bottom: 25px;
 }
-
+.stuff {
+	padding: 3px 10px;
+	background-color: #101010;
+	opacity: 0.6;
+	color: #fff;
+}
+.stuff2 {
+	padding: 3px 10px;
+	background-color: #fff;
+	opacity: 0.6;
+}
 .nav-footer > li > a {
 	color: #9D9D9D;
 	padding: 3px 15px;
@@ -59,15 +76,10 @@ footer > div {
 	padding: 15px;
 	background-color: #222;
 }
-.text-center {
-	text-align: center;
-}
-
 .nav-spacer {
 	height: 100px;
 	overflow: auto;
 }
-
 .center {}
 @media (min-width: 768px) {
 	.center {
