@@ -5,9 +5,20 @@
  *	Light Green: #33cc33;
  *	Light Gray: #8F8E87;
  */
+
+.aboutus-text {
+	font-size: 20px;
+	padding: 20px 0px;
+	color: #9D9D9D;
+}
+.aboutus-box {
+	background-color: #222;
+	overflow: auto;
+}
+
+
 .marginz {
 	margin: 20px;
-	text
 }
 .marginz-bottom {
 	margin-bottom: 20px;
@@ -48,19 +59,15 @@ a:hover > button {
 	border-style: solid;
 	border-width: 0px 0px 2px;
 }
-.aboutus-text {
-	font-size: 20px;
-	color: #9D9D9D;
-}
 .black-quote {
 	color: #333;
 	font-size: 30px;
-	font-style: times-new-roman;
+	font-family: "times-new-roman";
 }
 .green-quote {
 	color: #009933;
 	font-size: 30px;
-	font-style: times-new-roman;
+	font-family: "times-new-roman";
 }
 .join-pic > div {
 	margin-bottom: 25px;
